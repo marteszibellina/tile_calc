@@ -46,13 +46,7 @@ Tile Calculator - это удобный инструмент для строит
 git clone https://github.com/marteszibellina/tile_calculator.git
 ```
 
-2.Установите зависимости:
-
-```bash
-pip install -r requirements.txt
-```
-
-3.Запустите программу:
+2.Запустите программу:
 
 ```bash
 python tile_calculator.py
